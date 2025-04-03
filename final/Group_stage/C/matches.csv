@@ -1,0 +1,7 @@
+group,p1,p1 wins,p2 wins,p2
+C,top 1 battlecode,3,2,sus
+C,sus,0,5,redmiturbo3
+C,Nữ Sinh Cao Trung,5,0,sus
+C,redmiturbo3,5,0,top 1 battlecode
+C,top 1 battlecode,0,5,Nữ Sinh Cao Trung
+C,redmiturbo3,3,2,Nữ Sinh Cao Trung
